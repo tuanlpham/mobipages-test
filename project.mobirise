@@ -52,7 +52,7 @@
     "uniqCompNum": 17,
     "versionPublish": "5.5.0",
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
