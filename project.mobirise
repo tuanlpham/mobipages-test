@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-11-04_1318",
-    "currentPage": "resources.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -41,7 +41,7 @@
       }
     ],
     "favicon": false,
-    "mbrsiteDomain": "dv35ocszdc",
+    "mbrsiteDomain": "wahpwrvptu",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -50,7 +50,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 20,
-    "versionPublish": "5.5.0",
+    "versionPublish": "5.6.8",
     "screenshot": "screenshot.png",
     "publishChangesOnly": false
   },
